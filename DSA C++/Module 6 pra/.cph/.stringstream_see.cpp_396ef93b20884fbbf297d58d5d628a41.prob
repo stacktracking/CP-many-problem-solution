@@ -1,0 +1,1 @@
+{"name":"Local: stringstream_see","url":"a:\\Phitron\\DSA C++\\Module 6 pra\\stringstream_see.cpp","tests":[{"id":1749374912189,"input":"I Love You","output":" I Love You"},{"id":1749374916211,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\Phitron\\DSA C++\\Module 6 pra\\stringstream_see.cpp","group":"local","local":true}

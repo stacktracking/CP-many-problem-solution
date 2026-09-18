@@ -1,0 +1,1 @@
+{"name":"Local: abs_value","url":"a:\\Phitron\\Intrudaction to c\\Module 15.5\\abs_value.c","tests":[{"id":1746727185646,"input":"5","output":"5"},{"id":1746727196192,"input":"-7","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\Phitron\\Intrudaction to c\\Module 15.5\\abs_value.c","group":"local","local":true}

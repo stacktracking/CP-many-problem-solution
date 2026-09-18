@@ -1,0 +1,1 @@
+{"name":"Local: pointer1","url":"a:\\Phitron\\Intrudaction to c\\Module 15.5\\pointer1.c","tests":[{"id":1746728496187,"input":"5\n10 20 30 40 50","output":"10 20 30 40 100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\Phitron\\Intrudaction to c\\Module 15.5\\pointer1.c","group":"local","local":true}

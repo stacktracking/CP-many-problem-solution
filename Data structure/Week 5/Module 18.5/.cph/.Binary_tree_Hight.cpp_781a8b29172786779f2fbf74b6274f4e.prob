@@ -1,0 +1,1 @@
+{"name":"Local: Binary_tree_Hight","url":"a:\\Phitron\\Data structure\\Week 5\\Module 18.5\\Binary_tree_Hight.cpp","tests":[{"id":1754046968062,"input":"6 3 5 -1 2 0 -1 -1 1 -1 -1 -1 -1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\Phitron\\Data structure\\Week 5\\Module 18.5\\Binary_tree_Hight.cpp","group":"local","local":true}
